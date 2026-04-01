@@ -43,8 +43,8 @@ The system analyzes emails based on:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/rushbyte29/document-extractor.git
-cd document-extractor
+git clone https://github.com/rushbyte29/PhishGuard-AI.git
+cd PhishGuard-AI
 
 # Install dependencies
 npm install
