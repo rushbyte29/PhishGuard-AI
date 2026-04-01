@@ -39,9 +39,13 @@ The system analyzes emails based on:
 - **Papa Parse** - CSV parsing
 - **date-fns** - Date/time manipulation
 
-## Installation
+## Installation & SetUp
 
+### 1. Clone the repository
 ```bash
+git clone https://github.com/rushbyte29/document-extractor.git
+cd document-extractor
+
 # Install dependencies
 npm install
 
