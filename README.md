@@ -153,6 +153,3 @@ The phishing detection system uses multiple factors to calculate a risk score (0
 - Firefox 88+
 - Safari 14+
 
-## License
-
-MIT License - Free to use for educational and research purposes.
